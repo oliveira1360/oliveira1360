@@ -7,7 +7,8 @@
 
 ### 👨‍💻 Sobre mim
 - 🎓 Estudante de Engenharia Informática (LEIC)
-- 💻 Atualmente a desenvolver projetos com foco em Backend, Bases de Dados e Arquitetura de Sistemas
+- 🛰️ Atualmente a desenvolver um projeto **CubeSat em bare-metal**
+- 💻 Foco em Backend, Bases de Dados, Arquitetura de Sistemas e Baixo Nível
 - 🚀 Sempre curioso para dominar novas linguagens e resolver problemas complexos
 - 📫 Vamos conectar-nos no **[LinkedIn](https://www.linkedin.com/in/diogo-oliveira-405451353/)**
 
@@ -24,16 +25,22 @@
 <img src="https://img.shields.io/badge/assembly-%236E4C13.svg?style=for-the-badge&logoColor=white" alt="Assembly" />
 <img src="https://img.shields.io/badge/prolog-%2374283c.svg?style=for-the-badge&logoColor=white" alt="Prolog" />
 
+<br>
+
 **Web**
 <br>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 
+<br>
+
 **Bases de Dados**
 <br>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+<br>
 
 **DevOps & Infraestrutura**
 <br>
@@ -45,7 +52,7 @@
 ### 📊 As Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oliveira1360&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=issues,prs,contribs&include_all_commits=true" alt="Estatísticas do Diogo" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oliveira1360&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=issues,prs,contribs" alt="Estatísticas do Diogo" height="165" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira1360&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" height="165" />
 </div>
