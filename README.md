@@ -52,7 +52,7 @@
 ### 📊 As Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oliveira1360&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=issues,prs,contribs" alt="Estatísticas do Diogo" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oliveira1360&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=issues,prs,contribs&include_all_commits=true" alt="Estatísticas do Diogo" height="165" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira1360&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" height="165" />
 </div>
