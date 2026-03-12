@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/assembly-%236E4C13.svg?style=for-the-badge&logoColor=white" alt="Assembly" />
 <img src="https://img.shields.io/badge/prolog-%2374283c.svg?style=for-the-badge&logoColor=white" alt="Prolog" />
 
-**Web & Backend**
+**Web**
 <br>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
